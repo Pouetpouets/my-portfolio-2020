@@ -125,42 +125,7 @@ my-portfolio-2020/
 └── .github/            # GitHub configurations
 ```
 
-## Roadmap
-
-- [ ] Add blog commenting system
-- [ ] Implement portfolio analytics
-- [ ] Add internationalization support
-- [ ] Create mobile app version
-- [ ] Add project filtering by technology
-- [ ] Implement real-time chat for inquiries
-
-See the [open issues](https://github.com/Pouetpouets/my-portfolio-2020/issues) for a full list of proposed features and known issues.
-
-## Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
-Project Link: [https://github.com/Pouetpouets/my-portfolio-2020](https://github.com/Pouetpouets/my-portfolio-2020)
-
-## Acknowledgments
-
-- [React.js](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Vercel](https://vercel.com/)
-- All the open-source projects that made this portfolio possible
